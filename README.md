@@ -1,23 +1,94 @@
-# Hubbaka Ghoyati
-👋
+![Hubbaka Ghoyati — Full-Stack Developer. Web, mobile, and infrastructure.](./assets/profile-hero.svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hubbaka Ghoyati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hubbaka.ghoyati123@gmail.com) 
+# Hi, Saya Hubbaka Ghoyati
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hubbaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hubbaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hubbaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Sebagai **Full-Stack Engineer** yang adaptif dan komunikatif, saya memiliki pengalaman merancang dan mengembangkan perangkat lunak secara _end-to-end_ untuk berkontribusi dalam memenuhi kebutuhan operasional serta bisnis perusahaan. Nyaman dan antusias berkolaborasi dalam tim maupun maupun indiviual untuk memecahkan tantangan teknis maupun non-teknis untuk memberikan kontribusi.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hubbaka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Hubungi saya : [Email](mailto:hubbaka.ghoyati456@gmail.com) / [Whatsapp](https://wa.me/628xxxxxxxxxx)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hubbaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Kontribusi Saya
+[View contribution activity](https://github.com/hubbaka#year-list-container)
 
----
-[![](https://visitcount.itsvg.in/api?id=hubbaka&icon=1&color=1)](https://visitcount.itsvg.in)
+## Key Accomplishments
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Mengembangkan Sistem HRIS (Prima Super Apps)**: Menggantikan sistem pihak ketiga berbayar (GreatDay senilai ±Rp 1,2 Miliar/tahun) dengan mengelola operasional ±50.000 pekerja secara mandiri, sekaligus membuka peluang pendapatan baru.
+- **Mengembangkan Sistem Tracking Driver & Fleet Management**: Mengoptimalkan pelacakan armada dan profil pengemudi, berhasil mengefisiensikan biaya operasional kendaraan hingga **40%** tanpa mengurangi performa operasional.
+
+
+## Areas of Expertise
+
+- 🗣️ **Bahasa**: Indonesia & Inggris
+- 🧠 **Prinsip & Metodologi**: Clean Code, Maintainability, Scalability, Problem Solving, Team Communication
+- ⚙️ **Backend**: Golang (Fiber), Node.js (TypeScript), Python (Flask)
+- 🎨 **Frontend**: Next.js, React.js, Flutter
+- 🗄️ **Database**: PostgreSQL (Clustering), MySQL, Supabase, MongoDB
+- ⚡ **Caching & Message Broker**: Redis, RabbitMQ, Kafka
+- 🐳 **Infrastructure & Orchestration**: Docker, Kubernetes (Container Orchestration), Rancher (Multi-Cluster Management)
+- 🌐 **Reverse Proxy & Web Server**: Nginx
+- 🔒 **Networking & Security**: Cloudflare, DNS Management, SSL/TLS
+- 🔄 **Version Control & CI/CD**: GitHub Actions, GitLab CI/CD
+- 💻 **OS & Environment**: Linux, macOS, Windows
+
+
+## Experience
+
+### Prima Super Apps — HRIS
+
+Multi-tenant HRIS for approximately 50,000 active users, integrated with internal company systems.
+
+- Developed attendance features with photo and location verification, leave, overtime, payslips, reimbursements, and QR-based security patrols.
+- Built multi-company administration, SSO, role-based access control, and Maker–Checker–Signer approval workflows.
+- Developed microservices connecting HRIS, payroll, and third-party services through APIs and webhooks.
+
+**Stack:** Go (Fiber), Next.js, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes
+
+[Google Play](https://play.google.com/store/apps/details?id=com.pkss.app&hl=id) · [App Store](https://apps.apple.com/id/app/prima-super-apps/id6474478418)
+
+### Fleet Management — Vehicle & driver operations
+
+Vehicle monitoring and driver assignment platform that helped reduce vehicle operating costs by up to 40%.
+
+- Developed live tracking, trip history, fuel/power consumption estimates, expense tracking, and incident reporting.
+- Integrated HRIS authentication and built an Android head-unit interface, vehicle tax reminders, and driver scheduling.
+
+**Stack:** TypeScript, Node.js, Next.js, Flutter, PostgreSQL, Redis, RabbitMQ, Docker
+
+[View platform](https://fleet.pkss.co.id/)
+
+### Prima Academy — Online assessments
+
+Assessment and certification platform supporting approximately 5,000 concurrent users per exam session.
+
+- Developed the online examination engine, question bank, results analytics, and automatic digital certificates.
+- Integrated centralized authentication through Prima Super Apps SSO.
+
+**Stack:** TypeScript, Node.js, Next.js, PostgreSQL, Redis, RabbitMQ, Docker
+
+[View platform](https://primaacademy.pkss.co.id/)
+
+### Influencer Engagement Platform — Social media analytics
+
+- Developed data ingestion from Instagram, TikTok, and X/Twitter, engagement metrics, and campaign valuation calculations.
+- Implemented audience sentiment analysis with NLTK and built influencer management and performance visualizations.
+
+**Stack:** Python, Flask, BeautifulSoup, Selenium, Pandas, NLTK, React, MySQL, Docker
+
+Additional work includes digital office approval workflows, SLA-based contact center ticketing, and invitation/event management. See my [resume](./resume_hubbaka_ghoyati.md) for the full scope of responsibilities.
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Full-Stack Developer | PT Prima Karya Sarana Sejahtera | May 2023 – Present |
+| Full-Stack Developer | PT Laju Omega Digital | Aug 2022 – Mar 2023 |
+| DevOps Intern | PT Telematic Multisystem | Jan 2022 – Mar 2022 |
+
+## Pendidikan
+
+**Politeknik Negeri Jakarta**
+
+Diploma IV (D4), Teknik Informatika dan Komputer · Aug 2017 – Aug 2021
+
+## Get in touch
+
+Untuk peluang kerja sama terkait pengembangan aplikasi silakan hubungi saya di [Email](mailto:hubbaka.ghoyati456@gmail.com) / [Whatsapp](https://wa.me/628xxxxxxxxxx)

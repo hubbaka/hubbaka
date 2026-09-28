@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hubbaka Ghoyati — Full Stack Developer, Jakarta, Indonesia</title>
+  <desc id="desc">Isometric software layers in cyan and violet.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#17152f"/></linearGradient>
+    <linearGradient id="top"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#6366f1" stop-opacity=".24"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="925" cy="205" rx="260" ry="230" fill="url(#halo)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="48" y="70" width="260" height="40" rx="20" fill="#123344" stroke="#225569"/>
+    <text x="178" y="97" text-anchor="middle" fill="#67e8f9" font-size="18" font-weight="700" letter-spacing="1">Full Stack Developer</text>
+    <text x="48" y="178" fill="#f8fafc" font-size="53" font-weight="750" letter-spacing="-2">Hubbaka Ghoyati</text>
+    <path d="M50 207H108" stroke="#22d3ee" stroke-width="3"/>
+    <text x="50" y="251" fill="#94a3b8" font-size="26">Jakarta, Indonesia</text>
+    <g stroke-linejoin="round">
+      <ellipse cx="941" cy="308" rx="151" ry="25" fill="#030712" opacity=".5"/>
+      <path d="M786 235 931 168 1080 235 936 309Z" fill="#292954" stroke="#6563ac"/>
+      <path d="M786 235 936 309V333L786 260Z" fill="#151d39" stroke="#42467a"/>
+      <path d="M936 309 1080 235V260L936 333Z" fill="#242550" stroke="#54508c"/>
+      <path d="M786 184 931 117 1080 184 936 258Z" fill="#21445d" stroke="#56abc2"/>
+      <path d="M786 184 936 258V282L786 209Z" fill="#142d45" stroke="#35708a"/>
+      <path d="M936 258 1080 184V209L936 282Z" fill="#203454" stroke="#4d7fa7"/>
+      <path d="M786 133 931 66 1080 133 936 207Z" fill="url(#top)" stroke="#a5f3fc"/>
+      <path d="M786 133 936 207V231L786 158Z" fill="#155e75" stroke="#38a7be"/>
+      <path d="M936 207 1080 133V158L936 231Z" fill="#373a80" stroke="#818cf8"/>
+      <path d="m904 110-30 15 30 15m57-25 30 15-30 15m-25-41-14 48" fill="none" stroke="#102a43" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
